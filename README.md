@@ -73,7 +73,7 @@ The main idea is this rule:
 
 ```css
 @media (max-width: 640px) {
-    /* phone styles go here */
+  /* phone styles go here */
 }
 ```
 
@@ -123,9 +123,10 @@ Hint: an iPad media query may use a larger max width than the phone media query:
 
 ```css
 @media (max-width: 1024px) {
-    /* tablet styles go here */
+  /* tablet styles go here */
 }
 ```
+
 ---
 
 ## Apply This to Your Own Movie Portal
@@ -200,3 +201,23 @@ Students must submit:
 4. A working GitHub Pages link for the deployed movie portal
 5. Evidence that the same responsive design approach was applied to the personalized movie portal
 6. All screenshots must be decorated in the [README.md](README.md) file.
+
+---
+
+## My Submitted Screenshots
+
+### Lab 3 — Phone Layout
+
+![Lab 3 Phone Layout](images/phone.png)
+
+### Lab 3 — iPad Layout
+
+![Lab 3 iPad Layout](images/ipad.png)
+
+### Personalized Portal — Phone Layout
+
+![Personalized Portal Phone Layout](images/phonefav.png)
+
+### Personalized Portal — iPad Layout
+
+![Personalized Portal iPad Layout](images/ipadfav.png)
